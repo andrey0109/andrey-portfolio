@@ -15,11 +15,14 @@ export const Projects = () => {
       title: "Ecomerce Tus Zapas",
       description: "Design & Development",
       imgUrl: projImg1,
+      siteUrl: "https://andrey0109.github.io/tuszapas/"
     },
     {
       title: "ANDREY Digital Solutions",
       description: "Design & Development",
       imgUrl: projImg2,
+      siteUrl: "https://andrey0109.github.io/miproyecto/?fbclid=IwAR0agJQGIp0XXrM4wZCJYOq9cVVeNTwFzq5PHi0M-Q9mTaZNtirLi7Z9Wl8"
+
     },
   ];
 
