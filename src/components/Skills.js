@@ -42,6 +42,8 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={meter1} alt="Image" />
                                 <h5>HTML, CSS, Java Script</h5>
+                                <br></br>
+                                <br></br>
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png"/>
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"/>
                                 <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png"/>
@@ -49,11 +51,17 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={meter2} alt="Image" />
                                 <h5>React JS</h5>
+                                <br></br>
+                                <br></br>
+                                <br></br>
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
                                 <h5>Docker</h5>
+                                <br></br>
+                                <br></br>
+                                <br></br>
                                 <img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo.png"/>
                             </div>
                         </Carousel>

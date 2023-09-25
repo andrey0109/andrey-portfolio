@@ -366,6 +366,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 50px;
   background-color: rgb(255 255 255 / 10%);
   overflow: hidden;
+  align-items: center;
 }
 .project .nav.nav-pills .nav-item {
   width: 50%;
@@ -419,6 +420,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   overflow: hidden;
   margin-bottom: 24px;
   cursor: pointer;
+  align-items: center;
 }
 .proj-imgbx::before {
   content: "";
